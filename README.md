@@ -1,2 +1,2 @@
-# Julia M. Smith
+# Experimental social psychologist studying morality and the self concept.
 
