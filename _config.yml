@@ -1,3 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: [Title]
-description: [Who we are shapes our moral beliefs and behaviors. Our moral beliefs and behaviors shape who we are. I study when, where, and how.]
+@@ -2,4 +2,4 @@ title: Julia M. Smith
+description: Experimental social psychologist studying morality and the self concept.
+show_downloads: true
+google_analytics:
+theme: 
+theme: jekyll-theme-cayman
