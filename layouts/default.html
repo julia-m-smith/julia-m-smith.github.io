@@ -37,9 +37,6 @@
         {% unless site.buttons.zip_hide %}
           <a href="{{ https://julia-m-smith.github.io/Smith_CV2025.pdf }}" class="btn">View my CV</a>
         {% endunless %}
-        {% unless site.buttons.tar_hide %}
-          <a href="{{ site.buttons.tar_url | default: site.github.tar_url }}" class="btn">{{ site.buttons.tar_title | default: "Download .tar.gz" }}</a>
-        {% endunless %}
       {% endif %}
     </header>
 
