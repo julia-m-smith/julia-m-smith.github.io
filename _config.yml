@@ -1,6 +1,6 @@
 title: Julia M. Smith
 description: Experimental social psychologist studying morality and the self concept.
-buttons:
-  github:
-    hide: false
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
 
