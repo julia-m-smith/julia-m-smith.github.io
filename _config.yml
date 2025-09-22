@@ -2,10 +2,17 @@ title: Julia M. Smith
 description: Experimental social psychologist studying morality and the self concept.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
+logo_url: 
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
-  cv_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
-  cv_title: View my CV
+  zip_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
+  zip_title: View Documentation
   zip_hide: false
   tar_hide: true
   github_hide: true
+  
