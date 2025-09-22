@@ -11,7 +11,7 @@ logo_url:
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
-  zip_title: View Documentation
+  zip_title: View my CV
   zip_hide: false
   tar_hide: true
   github_hide: true
