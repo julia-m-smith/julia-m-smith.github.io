@@ -3,4 +3,9 @@ description: Experimental social psychologist studying morality and the self con
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-
+buttons:
+  cv_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
+  cv_title: View my CV
+  zip_hide: false
+  tar_hide: true
+  github_hide: true
