@@ -8,3 +8,5 @@ What we think is right and who we think we are inform one another. We routinely 
 I study moral and self-relevant reasoning using a cross-cultural framework that takes into account the world's vast diversity of moral beliefs and self-concepts. I am particularly interested in how understanding the ways in which we reason through these fundamental topics can help us better understand interpersonal and intergroup conflict and cooperation. 
 
 I am currently a postdoctoral associate in the Duke University [Mind and Culture Lab](https://www.mindandculturelab.com/).
+
+Email: julia.m.smith@duke.edu 
