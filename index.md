@@ -9,4 +9,4 @@ I study moral and self-relevant reasoning using a cross-cultural framework that 
 
 I am currently a postdoctoral associate in the Duke University [Mind and Culture Lab](https://www.mindandculturelab.com/).
 
-Email: julia.m.smith@duke.edu 
+Email: [julia.m.smith@duke.edu](mailto:julia.m.smith@duke.edu)
