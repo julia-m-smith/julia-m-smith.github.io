@@ -16,7 +16,7 @@ buttons:
   sc_title: Google Scholar
   osf_url: https://osf.io/bc2ma/
   osf_title: OSF
-  zip_hide: false
-  tar_hide: false
+  cv_hide: false
+  sc_hide: false
   osf_hide: false
   
