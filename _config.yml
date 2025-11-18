@@ -17,6 +17,6 @@ buttons:
   osf_url: https://osf.io/bc2ma/
   osf_title: OSF
   cv_hide: false
-  sc_hide: false
-  osf_hide: false
+  sc_hide: true
+  osf_hide: true
   
