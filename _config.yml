@@ -10,11 +10,13 @@ color:
 logo_url: 
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
-  zip_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
-  zip_title: View my CV
-  tar_url: https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao
-  tar_title: Google Scholar
+  cv_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
+  cv_title: View my CV
+  sc_url: https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao
+  sc_title: Google Scholar
+  osf_url: https://osf.io/bc2ma/
+  osf_title: OSF
   zip_hide: false
-  tar_hide: true
-  github_hide: true
+  tar_hide: false
+  osf_hide: false
   
