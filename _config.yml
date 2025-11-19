@@ -12,8 +12,8 @@ syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/
 buttons:
   zip_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
   zip_title: View my CV
-  tar_url: https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao
-  tar_title: Google Scholar
+  tar_url: https://julia-m-smith.github.io/teaching.html
+  tar_title: Teaching
   zip_hide: false
-  tar_hide: true
+  tar_hide: false
   github_hide: true
