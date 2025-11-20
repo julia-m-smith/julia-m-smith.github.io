@@ -5,7 +5,7 @@ description: Resources for Students and Instructors
 ---
 R Lessons for Beginners:
 
-These lessons are meant to help research assistants and students in Research Methods courses learn to use R to analyze data in Psychology. 
+These lessons are meant to help research assistants and students in Research Methods courses learn to use R to analyze data in Psychology. Instructors can feel free to adapt them for use in your labs or courses. 
 
 [Getting Started with R and R Studio: Installation Guide](https://julia-m-smith.github.io/Getting Started with R and R Studio.pdf)
 
