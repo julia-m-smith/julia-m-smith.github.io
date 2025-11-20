@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: otherpage
 title: Teaching
 description: Resources for Students and Instructors
 ---
