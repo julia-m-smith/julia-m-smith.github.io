@@ -15,7 +15,7 @@ R already has several base functions and can already find a package for you on t
 
 For now, we will install the package so we can use some of the datasets as a common reference point before we read in the data from your surveys. To do that, we can write our code directly in the console below, or we can make an R chunk in this notebook so that we can save our code for later. To make a chunk, we would go up to the green "insert" button at the top right of this window. Then, we would click "R". 
 
-```{r}
+```{r installing and using packages}
 # That gives us this chunk! Try inserting a chunk of your own right above this one. 
 
 # Now, why am I using so many hashtags? R will interpret everything inside this chunk as code to be run, UNLESS you start it with the #. So, when you want to make notes about what each of the codes do, use # to tell R that what you're about to type is just a note. 
@@ -34,7 +34,7 @@ library(yarrr) # Run this line to tell R we need the yarrr package.
 
 Nice! You've just installed and loaded your first R package! Now, let's have a look at some data. The yarrr package has some datasets we can play around with, so you'll have an example for your own data. 
 
-```{r}
+```{r looking at data}
 # Let's look at a dataframe included in the yarrr package. 
 View(capture) # The "View" function lets us view the dataset. It will appear in the "Environment" to the right, and it will also appear as a tab. 
 
@@ -65,7 +65,7 @@ If you successfully created a new project, now at the top right where it did say
 
 Now it's finally time to see your data! The easiest way to do this is to click on the dataset in the pane to the right and click "import dataset". You should see a preview of the dataset in the large box, and in the smaller box on the lower right, you will see a preview of the code you would use to read in the dataset. Copy that code. Now, you can click "import" and your data will come up in another window just like the ship data did before. Paste the code you copied in the box below so that later, instead of clicking the dataset, you can read it in easily just with the code. 
 
-```{r}
+```{r reading in your own data}
 # Paste code below:
 
 
@@ -112,9 +112,9 @@ library(yarrr)
 View(capture)
 ```
 
-Great! Now we have two datasets to work with: one made-up one about pirate ships, and one real-life dataset from your friends. Now, let's see if we can use my code about the pirate ships to learn to write your own code about your data.
+Great! Now we have two datasets to work with: one made-up one about pirate ships, and one real-life dataset that you added yourself. Now, let's see if we can use my code about the pirate ships to learn to write your own code about your data.
 
-```{r}
+```{r basic descriptives}
  # Remember this code?
 names(capture)
 
