@@ -14,8 +14,8 @@ buttons:
   zip_title: View my CV
   tar_url: https://julia-m-smith.github.io/teaching.html
   tar_title: Teaching
-  github_url: https://julia-m-smith.github.io/
-  github_title: Home
+  hom_url: https://julia-m-smith.github.io/
+  hom_title: Home
   zip_hide: false
   tar_hide: false
-  github_hide: false
+  hom_hide: false
