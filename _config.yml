@@ -9,7 +9,7 @@ color:
   gradient_right: "#f57c00"
 logo_url: 
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
-<!-- buttons:
+buttons:
   zip_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
   zip_title: View my CV
   tar_url: https://julia-m-smith.github.io/teaching.html
@@ -18,4 +18,4 @@ syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/
   hom_title: Home
   zip_hide: false
   tar_hide: false
-  hom_hide: false -->
+  hom_hide: false 
