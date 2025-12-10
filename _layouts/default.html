@@ -33,17 +33,15 @@
           <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
         {% endunless %}
       {% endif %}
-      {% if site.show_downloads %}
-        {% unless site.buttons.zip_hide %}
+        {% if page.buttons contains "zip" %}
           <a href="{{ site.buttons.zip_url | default: https://julia-m-smith.github.io/research.html }}" class="btn">{{ site.buttons.zip_title | default: "Research" }}</a>
-        {% endunless %}
-        {% unless site.buttons.tar_hide %}
+        {% endif %}
+        {% if page.buttons contains "tar" %}
           <a href="{{ site.buttons.tar_url | default: https://julia-m-smith.github.io/teaching.html }}" class="btn">{{ site.buttons.tar_title | default: "Teaching" }}</a>
-        {% endunless %}
-        {% unless site.buttons.cv_hide %}
+        {% endif %}
+        {% if page.buttons contains "cv" %}
           <a href="{{ site.buttons.cv_url | default: https://julia-m-smith.github.io/Smith_CV2025.pdf}}" class="btn">{{ site.buttons.cv_title | default: "View my CV" }}</a>
-        {% endunless %}
-      {% endif %}
+        {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
