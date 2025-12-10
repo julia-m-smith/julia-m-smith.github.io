@@ -8,7 +8,7 @@ buttons:
 - cv
 ---
 
-<img src="https://julia-m-smith.github.io/worldrels.png" alt="symbols of major world religions: the star and crescent, cross, om, and star of David" width="200" height="200" style="float:left">
+<img src="https://julia-m-smith.github.io/worldrels.png" alt="symbols of major world religions: the star and crescent, cross, om, and star of David" width="250" height="250" style="float:left">
 ## Religious identity and reasoning about outgroups
 How does thinking about our religious ideals influence the way we think about religious outgroups? 
 _Select Publications_
@@ -18,13 +18,13 @@ _Select Publications_
 
 [God values the lives of my outgroup more than I do: Evidence from Fiji and Israel.](https://julia-m-smith.github.io/pasek-et-al-2020-valuelives.pdf)
 
-<img src="https://julia-m-smith.github.io/news.png" alt="newspapers" width="200" height="200" style="float:left">
+<img src="https://julia-m-smith.github.io/news.png" alt="newspapers" width="250" height="250" style="float:left">
 ## Political identity and nationwide problem solving
 How does political identity influence how we approach problems on a national level? 
 _Manuscript in Prep_
 "If Only" in America: Counterfactual thinking in response to politicized negative events.
 
-<img src="https://julia-m-smith.github.io/gratitude.png" alt="stamps with hearts on them" width="200" height="200" style="float:left">
+<img src="https://julia-m-smith.github.io/gratitude.png" alt="stamps with hearts on them" width="250" height="250" style="float:left">
 ## Gratitude and interpersonal relationships
 It's easier to notice negative forces holding us back than positive ones helping us forward. The one exception? Other people.
 _Select Publications_
