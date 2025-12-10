@@ -13,6 +13,7 @@ buttons:
 How does thinking about our religious ideals influence the way we think about religious outgroups? 
 
 _Select Publications_
+
 [Thinking about God encourages prosociality towards religious outgroups: A cross-cultural investigation.](https://julia-m-smith.github.io/Paseketal2023_CrossCultural.pdf)
 
 [Thinking about God discourages dehumanization of religious outgroups.](https://julia-m-smith.github.io/Smithetal2022_Dehumanization.pdf)
@@ -26,6 +27,7 @@ _Select Publications_
 How does political identity influence how we approach problems on a national level? 
 
 _Manuscript in Prep_
+
 "If Only" in America: Counterfactual thinking in response to politicized negative events.
 
 
@@ -35,4 +37,5 @@ _Manuscript in Prep_
 It's easier to notice negative forces holding us back than positive ones helping us forward. The one exception? Other people.
 
 _Select Publications_
+
 [The privileges we do and do not see: The relative salience of interpersonal and circumstantial benefits.](https://julia-m-smith.github.io/smith-et-al-2024_interpersonal.pdf)
