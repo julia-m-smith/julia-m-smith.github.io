@@ -3,9 +3,9 @@ layout: default
 title: Teaching
 description: Resources for Students and Instructors
 buttons:
-- zip
 - res
-- home
+- hom
+- cv
 ---
 R Lessons for Beginners:
 
