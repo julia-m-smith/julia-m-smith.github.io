@@ -33,14 +33,17 @@
           <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
         {% endunless %}
       {% endif %}
-        {% if page.buttons contains "zip" %}
-          <a href="{{ site.buttons.zip_url | default: https://julia-m-smith.github.io/research.html }}" class="btn">{{ site.buttons.zip_title | default: "Research" }}</a>
+        {% if page.buttons contains "res" %}
+          <a href="{{ site.buttons.res_url | default: https://julia-m-smith.github.io/research.html }}" class="btn">{{ site.buttons.res_title | default: "Research" }}</a>
         {% endif %}
-        {% if page.buttons contains "tar" %}
-          <a href="{{ site.buttons.tar_url | default: https://julia-m-smith.github.io/teaching.html }}" class="btn">{{ site.buttons.tar_title | default: "Teaching" }}</a>
+        {% if page.buttons contains "tea" %}
+          <a href="{{ site.buttons.tea_url | default: https://julia-m-smith.github.io/teaching.html }}" class="btn">{{ site.buttons.tea_title | default: "Teaching" }}</a>
         {% endif %}
         {% if page.buttons contains "cv" %}
           <a href="{{ site.buttons.cv_url | default: https://julia-m-smith.github.io/Smith_CV2025.pdf}}" class="btn">{{ site.buttons.cv_title | default: "View my CV" }}</a>
+        {% endif %}
+        {% if page.buttons contains "hom" %}
+          <a href="{{ site.buttons.hom_url | default: https://julia-m-smith.github.io}}" class="btn">{{ site.buttons.hom_title | default: "Home" }}</a>
         {% endif %}
     </header>
 
