@@ -20,7 +20,7 @@ _Select Publications_
 
 
 
-<img src="https://julia-m-smith.github.io/news.png" alt="newspapers" width="250" height="250" style="float:left">
+<img src="https://julia-m-smith.github.io/news.png" alt="newspapers" width="200" height="200" style="padding: 10px;float:left">
 ## Political identity and nationwide problem solving
 How does political identity influence how we approach problems on a national level? 
 _Manuscript in Prep_
@@ -28,7 +28,7 @@ _Manuscript in Prep_
 
 
 
-<img src="https://julia-m-smith.github.io/gratitude.png" alt="stamps with hearts on them" width="250" height="250" style="float:left">
+<img src="https://julia-m-smith.github.io/gratitude.png" alt="stamps with hearts on them" width="200" height="200" style="padding: 10px;float:left">
 ## Gratitude and interpersonal relationships
 It's easier to notice negative forces holding us back than positive ones helping us forward. The one exception? Other people.
 _Select Publications_
