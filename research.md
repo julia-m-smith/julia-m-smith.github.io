@@ -18,11 +18,13 @@ How does thinking about our religious ideals influence the way we think about re
 
 [God values the lives of my outgroup more than I do: Evidence from Fiji and Israel.](https://julia-m-smith.github.io/pasek-et-al-2020-valuelives.pdf)
 
+<img src="https://julia-m-smith.github.io/news.png" alt="newspapers" width="200" height="200" style="float:left">
 ## Political identity and nationwide problem solving
 How does political identity influence how we approach problems on a national level? 
 ### Manuscript in prep:
 "If Only" in America: Counterfactual thinking in response to politicized negative events.
 
+<img src="https://julia-m-smith.github.io/gratitude.png" alt="stamps with hearts on them" width="200" height="200" style="float:left">
 ## Gratitude and interpersonal relationships
 It's easier to notice negative forces holding us back than positive ones helping us forward. The one exception? Other people.
 ### Select Publications:
