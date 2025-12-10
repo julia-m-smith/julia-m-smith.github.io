@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Research
-description: 
+description: Research areas and select publications
 buttons:
 - hom
 - tea
 - cv
 ---
+
+
+
