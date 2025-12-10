@@ -2,6 +2,7 @@
 layout: teachlayout
 title: Teaching
 description: Resources for Students and Instructors
+buttons: tar_hide
 ---
 R Lessons for Beginners:
 
