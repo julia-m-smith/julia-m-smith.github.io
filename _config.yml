@@ -10,12 +10,12 @@ color:
 logo_url: 
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
-  zip_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
-  zip_title: View my CV
+  cv_url: https://julia-m-smith.github.io/Smith_CV2025.pdf
+  cv_title: View my CV
   tar_url: https://julia-m-smith.github.io/teaching.html
   tar_title: Teaching
-  res_url: https://julia-m-smith.github.io/research.html
-  res_title: Research
+  zip_url: https://julia-m-smith.github.io/research.html
+  zip_title: Research
   zip_hide: false
   tar_hide: false
   res_hide: false
