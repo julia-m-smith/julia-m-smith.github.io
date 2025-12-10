@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 description: Resources for Students and Instructors
-tar_hide: true
+show_tar: false
 ---
 R Lessons for Beginners:
 
