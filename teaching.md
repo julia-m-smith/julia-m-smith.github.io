@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: teachlayout
 title: Teaching
 description: Resources for Students and Instructors
 ---
