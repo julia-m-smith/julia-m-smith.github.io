@@ -1,9 +1,9 @@
 ---
 layout: default
 buttons:
-- zip
 - res
-- tar
+- tea
+- cv
 ---
 <img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F41b0d2_c0a49018031343558137d62f6d1d64a2%7Emv2.png%2Fv1%2Fcrop%2Fx_219%2Cy_0%2Cw_3403%2Ch_4073%2Ffill%2Fw_396%2Ch_474%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2FJulia%2520Smith%2520Avatar.png" alt="Profile picture" width="200" height="239" style="float:right">
 
