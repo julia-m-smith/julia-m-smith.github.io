@@ -8,6 +8,9 @@ buttons:
 - cv
 ---
 
+
+# Research Areas:
+
 <img src="https://julia-m-smith.github.io/worldrels.png" alt="symbols of major world religions: the star and crescent, cross, om, and star of David" width="200" height="200" style="padding: 10px;float:left">
 ## Religious identity and reasoning about outgroups
 How does thinking about our religious ideals influence the way we think about religious outgroups? 
