@@ -2,7 +2,10 @@
 layout: default
 title: Teaching
 description: Resources for Students and Instructors
-show_tar: false
+buttons:
+- zip
+- res
+- home
 ---
 R Lessons for Beginners:
 
