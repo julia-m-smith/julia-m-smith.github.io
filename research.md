@@ -11,5 +11,7 @@ buttons:
 ## Religious identity and reasoning about outgroups
 How does thinking about our religious ideals influence the way we think about religious outgroups? 
 ### Select Publications: 
-[Thinking about God encourages prosociality towards religious outgroups: A cross-cultural investigation.](https://julia-m-smith.github.io/).
+[Thinking about God encourages prosociality towards religious outgroups: A cross-cultural investigation.](https://julia-m-smith.github.io/Paseketal2023_CrossCultural.pdf)
+[Thinking about God discourages dehumanization of religious outgroups.](Smithetal2022_Dehumanization.pdf)
+[God values the lives of my outgroup more than I do: Evidence from Fiji and Israel.] ()
 
