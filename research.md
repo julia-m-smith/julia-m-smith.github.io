@@ -39,9 +39,12 @@ How does thinking about our religious ideals influence the way we think about re
   
 </div>
 
-
+<div style="display:flex; align-items:flex-start; margin-bottom:30px; gap:20px;">
+  
 <img src="https://julia-m-smith.github.io/news.png" alt="newspapers" width="200" height="200" style="padding: 10px;float:left">
 
+<div markdown ="1">
+  
 ## Political identity and nationwide problem solving
 
 How does political identity influence how we approach problems on a national level? 
@@ -50,10 +53,16 @@ How does political identity influence how we approach problems on a national lev
 
 "If Only" in America: Counterfactual thinking in response to politicized negative events.
 
+  </div>
+  
+</div>
 
-
+<div style="display:flex; align-items:flex-start; margin-bottom:30px; gap:20px;">
+  
 <img src="https://julia-m-smith.github.io/gratitude.png" alt="stamps with hearts on them" width="200" height="200" style="padding: 10px;float:left">
 
+<div markdown ="1">
+  
 ## Gratitude and interpersonal relationships
 
 It's easier to notice negative forces holding us back than positive ones helping us forward. The one exception? Other people.
@@ -63,3 +72,7 @@ It's easier to notice negative forces holding us back than positive ones helping
 ### Select Publications
 
 [The privileges we do and do not see: The relative salience of interpersonal and circumstantial benefits.](https://julia-m-smith.github.io/smith-et-al-2024_interpersonal.pdf)
+
+  </div>
+  
+</div>
