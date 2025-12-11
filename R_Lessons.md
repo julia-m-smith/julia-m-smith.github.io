@@ -6,6 +6,7 @@ buttons:
 - res
 - hom
 - cv
+- tea
 ---
 
 These lessons are meant to help research assistants and students in Research Methods courses learn to use R to analyze data in Psychology. Instructors can feel free to adapt them for use in your labs or courses. 
