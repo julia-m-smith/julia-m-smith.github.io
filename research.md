@@ -8,7 +8,7 @@ buttons:
 - cv
 ---
 
-
+| <a href="https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao"><img src="https://julia-m-smith.github.io/scholaricon.png" alt="Google Scholar" style="width:100px;height:100px;float:left"></a> | - |
 |---|---|
 |This is | a test of the table |
 
