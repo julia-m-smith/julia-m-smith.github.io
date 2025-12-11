@@ -9,7 +9,7 @@ buttons:
 ---
 [![Google Scholar](https://julia-m-smith.github.io/scholaricon.png)(https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao)
 [![Research Gate](https://julia-m-smith.github.io/ResGateIcon.png)(https://www.researchgate.net/profile/Julia-Smith-29?ev=hdr_xprf)
-[![Google Scholar](https://julia-m-smith.github.io/osficon.png)(https://osf.io/bc2ma/)
+[![OSF](https://julia-m-smith.github.io/osficon.png)(https://osf.io/bc2ma/)
 
 # Research Areas:
 
