@@ -7,6 +7,20 @@ buttons:
 - tea
 - cv
 ---
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+</style>
+
+<table style="width:100%">
+  <tr>
+    <th><a href="https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao"><img src="https://julia-m-smith.github.io/scholaricon.png" alt="Google Scholar" style="width:100px;height:100px;float:left"></a></th>
+    <th><a href="https://www.researchgate.net/profile/Julia-Smith-29?ev=hdr_xprf"><img src="https://julia-m-smith.github.io/ResGateIcon.png" alt="Research Gate" style="width:100px;height:100px;float:center"></a></th> 
+    <th><a href="https://osf.io/bc2ma/"><img src="https://julia-m-smith.github.io/osficon.png" alt="Open Science Framework" style="width:100px;height:100px;float:right"></a></th>
+  </tr>
+</table>
 
 | <a href="https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao"><img src="https://julia-m-smith.github.io/scholaricon.png" alt="Google Scholar" style="width:100px;height:100px;float:left"></a> | <a href="https://www.researchgate.net/profile/Julia-Smith-29?ev=hdr_xprf"><img src="https://julia-m-smith.github.io/ResGateIcon.png" alt="Research Gate" style="width:100px;height:100px;float:center"></a> | <a href="https://osf.io/bc2ma/"><img src="https://julia-m-smith.github.io/osficon.png" alt="Open Science Framework" style="width:100px;height:100px;float:right"></a> |
 
