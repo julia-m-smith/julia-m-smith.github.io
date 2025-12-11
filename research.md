@@ -17,12 +17,11 @@ buttons:
 
 
 # Research Areas:
-<img src="https://julia-m-smith.github.io/worldrels.png" alt="symbols of major world religions: the star and crescent, cross, om, and star of David" width="200" height="200" style="padding: 15px"> 
+<img src="https://julia-m-smith.github.io/worldrels.png" alt="symbols of four major world religions: the star and crescent, cross, om, and star of David" width="200" height="200" style="padding: 15px"> 
 ## Religious identity and reasoning about outgroups
 How does thinking about our religious ideals influence the way we think about religious outgroups? 
 
-
-##Select Publications
+###Select Publications
 
 [Thinking about God encourages prosociality towards religious outgroups: A cross-cultural investigation.](https://julia-m-smith.github.io/Paseketal2023_CrossCultural.pdf)
 
@@ -36,9 +35,7 @@ How does thinking about our religious ideals influence the way we think about re
 ## Political identity and nationwide problem solving
 How does political identity influence how we approach problems on a national level? 
 
-
-
-##Manuscript in Prep
+###Manuscript in Prep
 
 "If Only" in America: Counterfactual thinking in response to politicized negative events.
 
@@ -50,6 +47,6 @@ It's easier to notice negative forces holding us back than positive ones helping
 
 
 
-##Select Publications
+###Select Publications
 
 [The privileges we do and do not see: The relative salience of interpersonal and circumstantial benefits.](https://julia-m-smith.github.io/smith-et-al-2024_interpersonal.pdf)
