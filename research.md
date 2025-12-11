@@ -19,7 +19,8 @@ buttons:
 # Research Areas:
 
 <div style="display:flex; align-items:flex-start; margin-bottom:30px; gap:20px;">
-<img src="https://julia-m-smith.github.io/worldrels.png" alt="symbols of four major world religions: the star and crescent, cross, om, and star of David" width="200" height="200" style="padding: 15px;float:left"> 
+  
+<img src="https://julia-m-smith.github.io/worldrels.png" alt="symbols of four major world religions: the star and crescent, cross, om, and star of David" width="200" height="200" style="padding: 15px;"> 
   
 <div>
   
@@ -35,6 +36,7 @@ How does thinking about our religious ideals influence the way we think about re
 [God values the lives of my outgroup more than I do: Evidence from Fiji and Israel.](https://julia-m-smith.github.io/pasek-et-al-2020-valuelives.pdf)
 
   </div>
+  
 </div>
 
 
