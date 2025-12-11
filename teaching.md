@@ -17,7 +17,7 @@ buttons:
 ## R Lessons for beginners
 These lessons are designed for research assistants, Research Methods students, and anyone who wants to learn basic programming in R. They are meant to be easy to follow at home; they can be used as-is or  instructors and mentors can feel free to adapt them for use in their classes or labs.
 
-[Click here to navigate to the R Lessons page.](https://julia-m-smith.github.io/R_Lessons.md)
+[Click here to navigate to the R Lessons page.](https://julia-m-smith.github.io/R_Lessons.html)
 
   </div>
   
