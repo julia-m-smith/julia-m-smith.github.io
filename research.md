@@ -8,7 +8,7 @@ buttons:
 - cv
 ---
 
-| - | - |
+
 |---|---|
 |This is | a test of the table |
 
