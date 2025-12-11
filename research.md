@@ -7,7 +7,8 @@ buttons:
 - tea
 - cv
 ---
-[<img src="https://julia-m-smith.github.io/scholar.png" alt="Google Scholar" width="100" height="100" style="padding: 100px;float:left">](https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao)
+[![Google Scholar](https://julia-m-smith.github.io/scholar.png)(https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao)
+
 
 # Research Areas:
 
