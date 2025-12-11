@@ -11,7 +11,7 @@ buttons:
 <div style="display:flex; justify-content:space-between; align-items:center; gap:20px;">
   <a href="https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao"><img src="https://julia-m-smith.github.io/scholaricon.png" width="100"></a>
   <a href="https://www.researchgate.net/profile/Julia-Smith-29?ev=hdr_xprf"><img src="https://julia-m-smith.github.io/ResGateIcon.png" width="100"></a>
-  <a href="https://osf.io/bc2ma/"><img src="[osfimage.png](https://julia-m-smith.github.io/osficon.png)" width="100"></a>
+  <a href="https://osf.io/bc2ma/"><img src="https://julia-m-smith.github.io/osficon.png" width="100"></a>
 </div>
 
 <a href="https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao"><img src="https://julia-m-smith.github.io/scholaricon.png" alt="Google Scholar" style="width:100px;height:100px;float:left; margin-right:20px; margin-bottom:20px;"></a>
