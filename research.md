@@ -14,7 +14,7 @@ buttons:
 <p style="text-align:center;"><a href="https://www.researchgate.net/profile/Julia-Smith-29?ev=hdr_xprf"><img src="https://julia-m-smith.github.io/ResGateIcon.png" alt="Research Gate" style="width:100px;height:100px;margin-right:20px; margin-bottom:20px;"></a>
 </p>
 
-<a href="https://osf.io/bc2ma/"><img src="https://julia-m-smith.github.io/osficon.png" alt="Open Science Framework" style="width:100px;height:100px;float:rightmargin-right:20px; margin-bottom:20px;"></a>
+<a href="https://osf.io/bc2ma/"><img src="https://julia-m-smith.github.io/osficon.png" alt="Open Science Framework" style="width:100px;height:100px;float:right;margin-right:20px; margin-bottom:20px;"></a>
 
 
 # Research Areas:
