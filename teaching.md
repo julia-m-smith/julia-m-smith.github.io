@@ -25,7 +25,7 @@ These lessons are designed for research assistants, Research Methods students, a
 
 <div style="display:flex; align-items:flex-start; margin-bottom:30px; gap:20px;">
   
-<img src="https://julia-m-smith.github.io/dndcon.png" width="200" height="200" style="padding: 15px; flex-shrink:0;"> 
+<img src="https://julia-m-smith.github.io/dndicon.png" width="200" height="200" style="padding: 15px; flex-shrink:0;"> 
   
 <div markdown ="1">
   
