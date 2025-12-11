@@ -9,7 +9,7 @@ buttons:
 ---
 
 <a href="https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao"><img src="https://julia-m-smith.github.io/scholaricon.png" alt="Google Scholar" style="width:100px;height:100px;float:left; margin-right:20px; margin-bottom:20px;"></a>
-style="float:left; width:250px; margin-right:20px; margin-bottom:20px;
+
 
 <p style="text-align:center;"><a href="https://www.researchgate.net/profile/Julia-Smith-29?ev=hdr_xprf"><img src="https://julia-m-smith.github.io/ResGateIcon.png" alt="Research Gate" style="width:100px;height:100px;margin-right:20px; margin-bottom:20px;"></a>
 </p>
