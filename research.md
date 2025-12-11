@@ -15,9 +15,6 @@ buttons:
 
 <a href="https://osf.io/bc2ma/"><img src="https://julia-m-smith.github.io/osficon.png" alt="Open Science Framework" style="width:100px;height:100px;"></a>
 
-[![Google Scholar](https://julia-m-smith.github.io/scholaricon.png)](https://scholar.google.com/citations?user=7Sy2fMYAAAAJ&hl=en&oi=ao)
-[![Research Gate](https://julia-m-smith.github.io/ResGateIcon.png)](https://www.researchgate.net/profile/Julia-Smith-29?ev=hdr_xprf)
-[![OSF](https://julia-m-smith.github.io/osficon.png)](https://osf.io/bc2ma/)
 
 # Research Areas:
 
