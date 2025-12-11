@@ -14,7 +14,7 @@ These lessons are meant to help research assistants and students in Research Met
 
 For those who have never installed R or R Studio, or need to re-install it: 
 
-[Getting Started with R and R Studio: Installation Guide](https://julia-m-smith.github.io/Getting Started with R and R Studio.pdf)
+[Getting Started with R and R Studio: Installation Guide](https://julia-m-smith.github.io/GettingStartedwithRandRStudio.pdf)
 
 ## Lesson 1: Reading in Data and Basic Descriptives
 
